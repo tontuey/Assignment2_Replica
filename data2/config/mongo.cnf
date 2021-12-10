@@ -1,0 +1,3 @@
+dbpath=c:\data2\db
+logpath=c:\data2\log\mongod.log
+port=27030
